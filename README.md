@@ -25,3 +25,7 @@ git clone https://github.com/AHMADOAFRIDI/HAMZA--KHAN.git
 cd HAMZA--KHAN
 
 python2 MANAHIL-KHAN.py
+
+USERNAME= HAMZA
+
+PASSWORD= AHMADO
